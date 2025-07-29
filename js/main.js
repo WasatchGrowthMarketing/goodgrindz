@@ -1,5 +1,4 @@
 /**
- * Golden Bees - Caribbean Restaurant Website
  * Main JavaScript File
  */
 
